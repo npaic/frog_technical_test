@@ -4,7 +4,7 @@ PHP 5.5
 MySQL  
 Apache  
 
-##THIS IS FAKE CONNECTING DATA
+##THIS IS TESTING CONNECTING DATA
     $servername = "localhost";  
     $username = "root";  
     $password = "";  
